@@ -1,0 +1,144 @@
+{
+  "status": "success",
+  "total": 15,
+  "items": [
+    {
+      "id": 1,
+      "name": "Wireless Earbuds",
+      "description": "Compact wireless earbuds with active noise cancellation and long battery life.",
+      "price": 89.99,
+      "rating": 4.5,
+      "category": "Tech",
+      "imageUrl": "https://picsum.photos/seed/earbuds/600/400"
+    },
+    {
+      "id": 2,
+      "name": "Smart LED Light Strip",
+      "description": "Customizable LED light strip with app control for ambient lighting setups.",
+      "price": 39.99,
+      "rating": 4,
+      "category": "Tech",
+      "imageUrl": "https://picsum.photos/seed/ledstrip/600/400",
+      "discount": 10
+    },
+    {
+      "id": 3,
+      "name": "Portable Bluetooth Speaker",
+      "price": 59.99,
+      "description": "Compact waterproof speaker delivering rich sound for indoor and outdoor use.",
+      "rating": 4.6,
+      "category": "Tech",
+      "imageUrl": "https://picsum.photos/seed/speaker/600/400"
+    },
+    {
+      "id": 4,
+      "name": "Compact Drone Camera",
+      "description": "Lightweight drone with stabilized camera for smooth aerial footage.",
+      "price": 299.99,
+      "rating": 4.7,
+      "category": "Tech",
+      "imageUrl": "https://picsum.photos/seed/drone/600/400"
+    },
+    {
+      "id": 5,
+      "name": "Minimalist Desk Lamp",
+      "description": "Modern desk lamp with adjustable brightness and minimalist design.",
+      "price": 49.99,
+      "rating": 4.4,
+      "category": "Home",
+      "imageUrl": "https://picsum.photos/seed/desklamp/600/400"
+    },
+    {
+      "id": 6,
+      "name": "Smart Aroma Diffuser",
+      "rating": 4.2,
+      "description": "Essential oil diffuser designed to create a relaxing atmosphere at home.",
+      "price": 34.99,
+      "category": "Home",
+      "imageUrl": "https://picsum.photos/seed/diffuser/600/400"
+    },
+    {
+      "id": 7,
+      "name": "Automatic Coffee Grinder",
+      "description": "Precision coffee grinder for consistently fresh coffee grounds.",
+      "price": 79.99,
+      "rating": 4.6,
+      "category": "Home",
+      "imageUrl": "https://picsum.photos/seed/coffegrinder/600/400",
+      "discount": 15
+    },
+    {
+      "id": 8,
+      "name": "Digital Alarm Clock",
+      "description": "Modern alarm clock with LED display and adjustable brightness.",
+      "price": 24.99,
+      "rating": 4,
+      "category": "Home",
+      "imageUrl": "https://picsum.photos/seed/alarmclock/600/400"
+    },
+    {
+      "id": 9,
+      "name": "Solar Camping Lantern",
+      "description": "Rechargeable lantern powered by solar energy, perfect for camping trips.",
+      "price": 29.99,
+      "rating": 4.5,
+      "category": "Outdoor",
+      "imageUrl": "https://picsum.photos/seed/lantern/600/400"
+    },
+    {
+      "id": 10,
+      "name": "Insulated Travel Bottle",
+      "description": "Stainless steel bottle that keeps beverages hot or cold for hours.",
+      "price": 19.99,
+      "rating": 4.4,
+      "category": "Outdoor",
+      "imageUrl": "https://picsum.photos/seed/bottle/600/400"
+    },
+    {
+      "id": 11,
+      "name": "Portable Power Bank",
+      "description": "High-capacity power bank with fast charging support.",
+      "price": 44.99,
+      "rating": 4.6,
+      "category": "Outdoor",
+      "imageUrl": "https://picsum.photos/seed/powerbank/600/400"
+    },
+    {
+      "id": 12,
+      "name": "Leather Tech Organizer",
+      "description": "Premium organizer designed for cables, chargers, and small gadgets.",
+      "price": 39.99,
+      "rating": 4.3,
+      "category": "Accessories",
+      "imageUrl": "https://picsum.photos/seed/organizer/600/400"
+    },
+    {
+      "id": 13,
+      "name": "Magnetic Phone Stand",
+      "description": "Compact stand designed to securely hold smartphones on any desk.",
+      "price": 14.99,
+      "rating": 4.2,
+      "category": "Accessories",
+      "imageUrl": "https://picsum.photos/seed/phonestand/600/400"
+    },
+    {
+      "id": 14,
+      "name": "Laptop Sleeve",
+      "description": "Protective sleeve with soft interior padding and water-resistant exterior.",
+      "price": 27.99,
+      "rating": 4.5,
+      "category": "Accessories",
+      "imageUrl": "https://picsum.photos/seed/laptopsleeve/600/400",
+      "discount": 5
+    },
+    {
+      "id": 15,
+      "name": "Wireless Charging Pad",
+      "description": "Fast wireless charging pad compatible with modern smartphones.",
+      "price": 32.99,
+      "rating": 4.4,
+      "category": "Accessories",
+      "imageUrl": "https://picsum.photos/seed/charger/600/400"
+    }
+  ]
+}

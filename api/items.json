@@ -9,7 +9,6 @@
       "price": 89.99,
       "rating": 4.5,
       "category": "Tech",
-      "imageUrl": "https://picsum.photos/seed/earbuds/600/400"
     },
     {
       "id": 2,
@@ -18,7 +17,6 @@
       "price": 39.99,
       "rating": 4,
       "category": "Tech",
-      "imageUrl": "https://picsum.photos/seed/ledstrip/600/400",
       "discount": 10
     },
     {
@@ -28,7 +26,6 @@
       "description": "Compact waterproof speaker delivering rich sound for indoor and outdoor use.",
       "rating": 4.6,
       "category": "Tech",
-      "imageUrl": "https://picsum.photos/seed/speaker/600/400"
     },
     {
       "id": 4,
@@ -37,7 +34,6 @@
       "price": 299.99,
       "rating": 4.7,
       "category": "Tech",
-      "imageUrl": "https://picsum.photos/seed/drone/600/400"
     },
     {
       "id": 5,
@@ -46,7 +42,6 @@
       "price": 49.99,
       "rating": 4.4,
       "category": "Home",
-      "imageUrl": "https://picsum.photos/seed/desklamp/600/400"
     },
     {
       "id": 6,
@@ -55,7 +50,6 @@
       "description": "Essential oil diffuser designed to create a relaxing atmosphere at home.",
       "price": 34.99,
       "category": "Home",
-      "imageUrl": "https://picsum.photos/seed/diffuser/600/400"
     },
     {
       "id": 7,
@@ -64,7 +58,6 @@
       "price": 79.99,
       "rating": 4.6,
       "category": "Home",
-      "imageUrl": "https://picsum.photos/seed/coffegrinder/600/400",
       "discount": 15
     },
     {
@@ -74,7 +67,6 @@
       "price": 24.99,
       "rating": 4,
       "category": "Home",
-      "imageUrl": "https://picsum.photos/seed/alarmclock/600/400"
     },
     {
       "id": 9,
@@ -83,7 +75,6 @@
       "price": 29.99,
       "rating": 4.5,
       "category": "Outdoor",
-      "imageUrl": "https://picsum.photos/seed/lantern/600/400"
     },
     {
       "id": 10,
@@ -92,7 +83,6 @@
       "price": 19.99,
       "rating": 4.4,
       "category": "Outdoor",
-      "imageUrl": "https://picsum.photos/seed/bottle/600/400"
     },
     {
       "id": 11,
@@ -101,7 +91,6 @@
       "price": 44.99,
       "rating": 4.6,
       "category": "Outdoor",
-      "imageUrl": "https://picsum.photos/seed/powerbank/600/400"
     },
     {
       "id": 12,
@@ -110,7 +99,6 @@
       "price": 39.99,
       "rating": 4.3,
       "category": "Accessories",
-      "imageUrl": "https://picsum.photos/seed/organizer/600/400"
     },
     {
       "id": 13,
@@ -119,7 +107,6 @@
       "price": 14.99,
       "rating": 4.2,
       "category": "Accessories",
-      "imageUrl": "https://picsum.photos/seed/phonestand/600/400"
     },
     {
       "id": 14,
@@ -128,7 +115,6 @@
       "price": 27.99,
       "rating": 4.5,
       "category": "Accessories",
-      "imageUrl": "https://picsum.photos/seed/laptopsleeve/600/400",
       "discount": 5
     },
     {
@@ -138,7 +124,6 @@
       "price": 32.99,
       "rating": 4.4,
       "category": "Accessories",
-      "imageUrl": "https://picsum.photos/seed/charger/600/400"
     }
   ]
 }

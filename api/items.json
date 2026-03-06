@@ -8,7 +8,7 @@
       "description": "Compact wireless earbuds with active noise cancellation and long battery life.",
       "price": 89.99,
       "rating": 4.5,
-      "category": "Tech",
+      "category": "Tech"
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
       "price": 59.99,
       "description": "Compact waterproof speaker delivering rich sound for indoor and outdoor use.",
       "rating": 4.6,
-      "category": "Tech",
+      "category": "Tech"
     },
     {
       "id": 4,
@@ -33,7 +33,7 @@
       "description": "Lightweight drone with stabilized camera for smooth aerial footage.",
       "price": 299.99,
       "rating": 4.7,
-      "category": "Tech",
+      "category": "Tech"
     },
     {
       "id": 5,
@@ -41,7 +41,7 @@
       "description": "Modern desk lamp with adjustable brightness and minimalist design.",
       "price": 49.99,
       "rating": 4.4,
-      "category": "Home",
+      "category": "Home"
     },
     {
       "id": 6,
@@ -49,7 +49,7 @@
       "rating": 4.2,
       "description": "Essential oil diffuser designed to create a relaxing atmosphere at home.",
       "price": 34.99,
-      "category": "Home",
+      "category": "Home"
     },
     {
       "id": 7,
@@ -66,7 +66,7 @@
       "description": "Modern alarm clock with LED display and adjustable brightness.",
       "price": 24.99,
       "rating": 4,
-      "category": "Home",
+      "category": "Home"
     },
     {
       "id": 9,
@@ -74,7 +74,7 @@
       "description": "Rechargeable lantern powered by solar energy, perfect for camping trips.",
       "price": 29.99,
       "rating": 4.5,
-      "category": "Outdoor",
+      "category": "Outdoor"
     },
     {
       "id": 10,
@@ -82,7 +82,7 @@
       "description": "Stainless steel bottle that keeps beverages hot or cold for hours.",
       "price": 19.99,
       "rating": 4.4,
-      "category": "Outdoor",
+      "category": "Outdoor"
     },
     {
       "id": 11,
@@ -90,7 +90,7 @@
       "description": "High-capacity power bank with fast charging support.",
       "price": 44.99,
       "rating": 4.6,
-      "category": "Outdoor",
+      "category": "Outdoor"
     },
     {
       "id": 12,
@@ -98,7 +98,7 @@
       "description": "Premium organizer designed for cables, chargers, and small gadgets.",
       "price": 39.99,
       "rating": 4.3,
-      "category": "Accessories",
+      "category": "Accessories"
     },
     {
       "id": 13,
@@ -106,7 +106,7 @@
       "description": "Compact stand designed to securely hold smartphones on any desk.",
       "price": 14.99,
       "rating": 4.2,
-      "category": "Accessories",
+      "category": "Accessories"
     },
     {
       "id": 14,
@@ -114,7 +114,7 @@
       "description": "Protective sleeve with soft interior padding and water-resistant exterior.",
       "price": 27.99,
       "rating": 4.5,
-      "category": "Accessories",
+      "category": "Accessories"
       "discount": 5
     },
     {
@@ -123,7 +123,7 @@
       "description": "Fast wireless charging pad compatible with modern smartphones.",
       "price": 32.99,
       "rating": 4.4,
-      "category": "Accessories",
+      "category": "Accessories"
     }
   ]
 }
